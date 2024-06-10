@@ -22,7 +22,11 @@ h2 {
 
 .half-width {
     width: 50%;
-    padding: 2%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
 }
 
 .link-batton {
